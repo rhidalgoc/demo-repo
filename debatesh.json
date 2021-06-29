@@ -146,5 +146,14 @@
     "favor": "Colegio Ejercito Libertador",
     "contra": "Escuela Joaquín Prieto Vial",
     "fecha": "02 de junio de 2021"
+  },
+      {
+    "id": 14,
+    "mes":"Junio",
+    "imagen":"../../../../assets/img/caracol.jpg",
+    "tesis": "vamos que se puede de mas que si",
+    "favor": "Colegio Ejercito Libertador",
+    "contra": "Escuela Joaquín Prieto Vial",
+    "fecha": "02 de junio de 2021"
   }
 ]
