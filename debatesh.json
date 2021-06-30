@@ -218,6 +218,15 @@
     "favor": "Colegio Ejercito Libertador",
     "contra": "Escuela Joaquín Prieto Vial",
     "fecha": "02 de junio de 2021"
+  },
+  {
+    "id": 24,
+    "mes":"Junio",
+    "imagen":"../../../../assets/img/caracol.jpg",
+    "tesis": "Aurora",
+    "favor": "Colegio Ejercito Libertador",
+    "contra": "Escuela Joaquín Prieto Vial",
+    "fecha": "02 de junio de 2021"
   }
 
 ]
