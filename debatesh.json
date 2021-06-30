@@ -223,7 +223,25 @@
     "id": 24,
     "mes":"Junio",
     "imagen":"../../../../assets/img/caracol.jpg",
-    "tesis": "Aurora",
+    "tesis": "Carlos",
+    "favor": "Colegio Ejercito Libertador",
+    "contra": "Escuela Joaquín Prieto Vial",
+    "fecha": "02 de junio de 2021"
+  },
+  {
+    "id": 25,
+    "mes":"Junio",
+    "imagen":"../../../../assets/img/caracol.jpg",
+    "tesis": "Susana",
+    "favor": "Colegio Ejercito Libertador",
+    "contra": "Escuela Joaquín Prieto Vial",
+    "fecha": "02 de junio de 2021"
+  },
+  {
+    "id": 26,
+    "mes":"Junio",
+    "imagen":"../../../../assets/img/caracol.jpg",
+    "tesis": "Ines",
     "favor": "Colegio Ejercito Libertador",
     "contra": "Escuela Joaquín Prieto Vial",
     "fecha": "02 de junio de 2021"
