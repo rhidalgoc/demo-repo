@@ -165,7 +165,7 @@
     "contra": "Escuela Joaquín Prieto Vial",
     "fecha": "02 de junio de 2021"
   },
-   {
+  {
     "id": 16,
     "mes":"Junio",
     "imagen":"../../../../assets/img/caracol.jpg",
@@ -174,8 +174,7 @@
     "contra": "Escuela Joaquín Prieto Vial",
     "fecha": "02 de junio de 2021"
   },
-  ,
-   {
+  {
     "id": 17,
     "mes":"Junio",
     "imagen":"../../../../assets/img/caracol.jpg",
