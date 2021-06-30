@@ -155,5 +155,14 @@
     "favor": "Colegio Ejercito Libertador",
     "contra": "Escuela Joaquín Prieto Vial",
     "fecha": "02 de junio de 2021"
+  },
+     {
+    "id": 15,
+    "mes":"Junio",
+    "imagen":"../../../../assets/img/caracol.jpg",
+    "tesis": "plademia",
+    "favor": "Colegio Ejercito Libertador",
+    "contra": "Escuela Joaquín Prieto Vial",
+    "fecha": "02 de junio de 2021"
   }
 ]
